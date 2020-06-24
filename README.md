@@ -4,7 +4,20 @@ from Imperial College's MEng Aeronautical Engineering
 
 Set 1: Coursework 1 
 
+The objective of this course work assignment is the implementation of the semi-Lagrangian numerical method to solve the Advection Equation
 
+1.	Coursework1_Handout.pdf
+2.	semi-Lagrangian_Q10.m
+3.        semi-Lagrangian_Q11.m
+4.        Xerxes_CFD_CW1.pdf
+
+Comments: File 1. contains the coursework description. File 2. and 3. contain the scripts for questions 10 and 11 of the coursework. File 4. contains the report submitted for this coursework
+
+To run:
+
+1.	File 2. and 3. can be runned individually
+
+=========================================================================================================================================================================
 
 Set 2: Coursework 2
 
